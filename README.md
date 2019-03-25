@@ -11,7 +11,7 @@ Some interesting findings from the project:
 4. Ukraine has the cheapest wines (average $9 a bottle)
 5. America has...not the cheapest wines
 6. Somehow people really like reviewing Pinot Noir (or they are just the most consumed)
-7. The highest rated wine type in this dataset is:Gelber Traminer (What's this??)
-8. The most expensive wine type in this dataset is:Ramisco (Again what?)
-9. The cheapeast wine tyoe in this dataset is:Trajadura (???)
+7. The highest rated wine type in this dataset is: Gelber Traminer (What's this??)
+8. The most expensive wine type in this dataset is: Ramisco (Again what?)
+9. The cheapeast wine tyoe in this dataset is: Trajadura (???)
 10. Wine prices and wine ratings have a very confusing but slightly positive relationship
